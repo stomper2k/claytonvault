@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "31fa0230e7a9b0f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "439702a7a2007b04",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1886-08-14 John Clendening found dead.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "701888333da8fcf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "227d91e821ac6999",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aee4eaa240a54f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7982c129eb3a1227",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3198d9398c63c6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b754a52147a1adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c154949666608d72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1886-08-14 John Clendening found dead.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58f3d568ba6cc11c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "34b7135e1608ac73",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "221607f2aed3d70b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "36d0bb7c42908cdf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a006a16f8828695",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b3da2e2c9169a7a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddb6c1a4f91631a9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "71411ff37a382cd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "439702a7a2007b04",
+  "lastOpenFiles": [
+    "1886-08-14 John Clendening found dead.md",
+    "Daily Notes/2022-02-05.md",
+    "Daily Notes/2022-01-31.md",
+    "Daily Notes/2021-09-17.md",
+    "Daily Notes/2021-08-25.md",
+    "Template trial.md",
+    "Corpus Christi, Nueces Co., Texas.md",
+    "1961-10-31.md",
+    "squatters.md",
+    "Untitled 3.md"
+  ]
+}

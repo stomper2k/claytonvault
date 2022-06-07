@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "31fa0230e7a9b0f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "66e0830290dc2119",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/2022-06-01.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "701888333da8fcf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "227d91e821ac6999",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aee4eaa240a54f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7982c129eb3a1227",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "digitization",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3198d9398c63c6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b754a52147a1adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c154949666608d72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2022-06-01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58f3d568ba6cc11c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "34b7135e1608ac73",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "221607f2aed3d70b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "36d0bb7c42908cdf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddb6c1a4f91631a9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "71411ff37a382cd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ba78866d7d64ffd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "66e0830290dc2119",
+  "lastOpenFiles": [
+    "Daily Notes/2022-06-01.md",
+    "Daily Notes/2022-05-28.md",
+    "Create notes.md",
+    "Using Zotero, Zotfile and Scrivener.md",
+    "Robert W. Clendening timeline.md",
+    "pre-empted.md",
+    "squatters.md",
+    "Clayton Library Presents.md",
+    "digitization notes.md",
+    "Pierson.md"
+  ]
+}

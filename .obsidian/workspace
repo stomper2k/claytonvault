@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "31fa0230e7a9b0f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "66e0830290dc2119",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fostering Family History Services.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "701888333da8fcf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "227d91e821ac6999",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aee4eaa240a54f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7982c129eb3a1227",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e3198d9398c63c6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b754a52147a1adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c154949666608d72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fostering Family History Services.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58f3d568ba6cc11c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "34b7135e1608ac73",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "221607f2aed3d70b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "36d0bb7c42908cdf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddb6c1a4f91631a9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "71411ff37a382cd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ba78866d7d64ffd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "66e0830290dc2119",
+  "lastOpenFiles": [
+    "Fostering Family History Services.md",
+    "Daily Notes/2022-06-07.md",
+    "Untitled 2.md",
+    "Daily Notes/2022-06-03.md",
+    "Daily Notes/2022-06-06.md",
+    "H. L. Raasch.md",
+    "FY22 HEAR.md",
+    "VF Weekly Update.md",
+    "Joachin Sauer.md",
+    "HP EliteBook 745 G6.md"
+  ]
+}
